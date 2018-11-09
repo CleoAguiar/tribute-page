@@ -1,0 +1,36 @@
+body {
+  background-color: lightgray;
+  text-align: center;
+  line-height: 1.0;
+}
+
+#main{
+  
+}
+
+#title{
+  
+}
+
+#img-div{
+  background-color: white;
+  color: black;
+  line-height: 1.5;
+}
+
+img{
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+#tribute-info{
+  text-align: left;
+  line-height: 1.5;
+  position: relative;
+  left: 100px;
+}
+
+#tribute-link{
+  
+}
