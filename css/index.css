@@ -4,33 +4,44 @@ body {
   line-height: 1.0;
 }
 
-#main{
+#main {
   
 }
 
-#title{
+#title {
   
 }
 
-#img-div{
+#img-div {
+  display: inline-block;
   background-color: white;
   color: black;
   line-height: 1.5;
+  padding: 5px;
+  /*max-width: 100%;*/
+  max-height: 100%;
 }
 
-img{
+#img-caption {
+  /*position: relative;*/
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+img {
   max-width: 100%;
   display: block;
   height: auto;
+  margin: auto;
 }
 
-#tribute-info{
+#tribute-info {
   text-align: left;
   line-height: 1.5;
   position: relative;
   left: 100px;
 }
 
-#tribute-link{
+#tribute-link {
   
 }
