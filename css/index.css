@@ -19,8 +19,8 @@ body {
 }
 
 #subtitle {
-  padding: 20px;
   font-size: 36px;
+  padding: 20px;
 }
 
 #img-div {
@@ -35,6 +35,15 @@ body {
   width: 700px;
   margin: auto;
   padding: 10px;
+}
+
+#tribute-info {
+  position: relative;
+  text-align: left;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
 }
 
 /*
