@@ -8,17 +8,34 @@ body {
   background: lightgray;
   margin: 10px;
   border-radius: 10px;
-  font-size: 32px;
-  padding: 10px 20%;
+  font-size: 28px;
 }
 
 #title {
   display: block;
-  font-size: 40px;
-  padding: 40px 20% 10px;
+  font-size: 48px;
+  padding-top: 40px;
   font-weight: bold;
 }
 
+#subtitle {
+  padding: 20px;
+  font-size: 36px;
+}
+
+#img-div {
+  background-color: #fff;
+  margin: 20px;
+  border-radius: 20px;
+  padding: 40px;
+}
+
+#img-caption {
+  font-size: 24px;
+  width: 700px;
+  margin: auto;
+  padding: 10px;
+}
 
 /*
 div#main {
