@@ -37,13 +37,26 @@ body {
   padding: 10px;
 }
 
-#tribute-info {
-  position: relative;
+#tribute-info ul, h3 {
   text-align: left;
   width: 700px;
   margin-left: auto;
   margin-right: auto;
   padding-left: 20px;
+}
+
+li {
+  padding-bottom: 10px;
+}
+
+p {
+  display: inline;
+  font-style: italic;
+}
+
+h2 {
+  font-size: 26px;
+  padding-bottom: 20px;
 }
 
 /*
