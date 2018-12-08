@@ -30,16 +30,22 @@ body {
   padding: 40px;
 }
 
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+} 
+
 #img-caption {
   font-size: 24px;
-  width: 700px;
+  width: 100%;
   margin: auto;
   padding: 10px;
 }
 
 #tribute-info ul, h3 {
   text-align: left;
-  width: 700px;
+  width: 90%;
   margin-left: auto;
   margin-right: auto;
   padding-left: 20px;
